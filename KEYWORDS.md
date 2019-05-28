@@ -265,7 +265,7 @@ If the length of data array is bigger than the length of "items" keyword value t
 
 - `false`: data is invalid
 - `true`: data is valid
-- an object: data is valid if all additional items (i.e. items with indeces greater or equal than "items" keyword value length) are valid according to the schema in "assitionalItems" keyword.
+- an object: data is valid if all additional items (i.e. items with indeces greater or equal than "items" keyword value length) are valid according to the schema in "additionalItems" keyword.
 
 
 __Examples__
